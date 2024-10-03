@@ -1,11 +1,32 @@
 .RightMenu {
-    background-color:gray;
-    height: auto;
+    background-color:transparent;
+    height: fit-content;
     width: 20%;
     border-radius: 7px;
-    border: 1px solid black;
+}
+.ClubsBlock {
+    text-align: left;
+    display: flex;
+    margin: 5%;
+    margin-bottom: 25%;
 }
 .ClubLogo {
     height: 40px;
-    padding: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+.FriendsList {
+    text-align: left;
+    margin: 5%;
+    margin-bottom: 25%;
+}
+.FriendProfilePiture {
+    float:left;
+    border-radius: 50%;
+    height: 40px;
+    margin-right: 5%;
+}
+.Friend {
+    margin-top: 5%;
+    margin-bottom: 5%;
 }

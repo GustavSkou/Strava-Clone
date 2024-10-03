@@ -1,0 +1,25 @@
+h1 {
+    font-size: x-large;
+}
+
+p1 {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p2 {
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: lightgray;
+}
+
+th, td {
+    padding-right: 15px;
+}
+
+.flex-container {
+    display: flex;
+}
