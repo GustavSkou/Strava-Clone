@@ -1,0 +1,60 @@
+body {
+    background-color: lightgray;
+}
+
+th, td {
+    padding-right: 15px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.MiddleMenu 
+{
+    background-color:white;
+    width:50%;
+    margin:auto;
+    padding: 25px;   
+    border-radius: 7px;
+    border: 1px solid black;
+}
+
+.MiddleTextBlock 
+{
+    background-color: white;
+    margin-left: 40px;
+}
+
+.MiddleTable {
+    width: 60%;
+}
+
+
+.ProfilePictureActivity
+{
+    float:left; 
+    width:40px; 
+    height:40px;
+    border-radius: 50%; 
+}
+
+.Rute {
+    width: 100%;
+    padding-top: 25px;
+    border-radius: 7px;
+}
+
+.TH 
+{
+    font-size: 50%;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.TR 
+{
+    font-size: 100%;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

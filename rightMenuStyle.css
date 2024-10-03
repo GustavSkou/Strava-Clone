@@ -1,0 +1,11 @@
+.RightMenu {
+    background-color:gray;
+    height: auto;
+    width: 20%;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+.ClubLogo {
+    height: 40px;
+    padding: 5px;
+}

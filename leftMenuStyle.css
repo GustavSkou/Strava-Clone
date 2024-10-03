@@ -1,0 +1,29 @@
+.LeftMenu {
+    background-color: white;
+    height:fit-content;
+    width: 20%;
+    border-radius: 7px;
+    border: 1px solid whitesmoke;
+}
+.ProfileBlock {
+    background-color: white;
+    text-align: center;
+    margin: 5%;
+}
+
+.ProfilePictureMenu {
+    display: block;
+    margin: auto;
+    width:40px; 
+    height:40px;
+    border-radius: 50%;    
+}
+.LastestActivity {
+    margin: 5%;
+}
+.TraingingLog {
+    margin: 5%;
+}
+.LeftTable {
+    margin: auto;
+}
