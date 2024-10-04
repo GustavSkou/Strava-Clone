@@ -18,11 +18,14 @@
 .MiddleTable {
     width: 60%;
 }
-
+.grid-container {
+    display: grid;
+    grid-template-columns: 40px auto;
+}
 
 .ProfilePictureActivity
 {
-    float:left; 
+    float:left;
     width:40px; 
     height:40px;
     border-radius: 50%; 
@@ -47,3 +50,4 @@
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+

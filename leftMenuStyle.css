@@ -1,12 +1,15 @@
 .LeftMenu {
-    background-color: white;
     height:fit-content;
     width: 20%;
+}
+
+.LeftMenuTop {
+    background-color: white;
+    height:fit-content;
     border-radius: 7px;
     border: 1px solid whitesmoke;
 }
 .ProfileBlock {
-    background-color: white;
     text-align: center;
     margin: 5%;
 }
@@ -26,4 +29,16 @@
 }
 .LeftTable {
     margin: auto;
+}
+.LeftMenuBottom {
+    background-color: white;
+    height:fit-content;
+    border-radius: 7px;
+    border: 1px solid whitesmoke;
+    margin-top: 10%;
+}
+.LeftManuBottom-Nav {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
 }
